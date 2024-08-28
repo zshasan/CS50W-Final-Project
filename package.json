@@ -1,0 +1,22 @@
+{
+  "name": "Final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "scripts": {
+    "dev": "webpack --mode development ./sweetcode/frontend/src/components/index.jsx --output ./sweetcode/frontend/static/frontend/main.js",
+    "build": "webpack --mode production ./sweetcode/frontend/src/components/index.jsx --output ./sweetcode/frontend/static/frontend/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
