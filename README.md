@@ -1,7 +1,6 @@
 MAIN
 ----
-    My Django project is a kids math game site consisting of four games(Addition, Subtraction, Multiplication and Divison).  There is also a Journal-like option that allows the user to record their scores or thoughts when they
-please.
+    My Django project is a kids math game site consisting of four games(Addition, Subtraction, Multiplication and Divison).  There is also a Journal-like option that allows the user to record their scores or thoughts when they please.
 
 DISTINCTIVENESS AND COMPLEXITY
 ------------------------------
